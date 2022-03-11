@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+plotly
+tensorflow
+keras
+sklearn
+IPython
+coremltools
